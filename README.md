@@ -21,28 +21,15 @@
 
 ## 📊 GitHub Stats
 
-![Lily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frostlily2k4&show_icons=true&theme=tokyonight&hide_border=true)
+![Jothi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frostlily2k4&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frostlily2k4&layout=compact&theme=tokyonight&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=frostlily2k4&theme=tokyonight&hide_border=true)
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/jothi-a-a92210304
+- 💼 LinkedIn: https://www.linkedin.com/in/jothi-a-a92210304
 - 📧 Email: frost.lily2k4@gmail.com
 
 ⭐ Always excited to learn, collaborate, and build impactful AI solutions.
-
-<!--
-**frostlily2k4/frostlily2k4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
