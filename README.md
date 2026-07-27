@@ -32,7 +32,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frostlily2k4&theme=tokyonight&layout=compact&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=frostlily2k4&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=frostlily2k4&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
 ---
 
