@@ -1,77 +1,151 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jothi+%F0%9F%91%8B;AI+%26+ML+Student;Python+Developer;Future+AI+Engineer" alt="Typing SVG" />
+<div align="center">
 
-# 👋 Welcome to My GitHub!
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Jothi;Artificial+Intelligence+%26+ML+Student;Python+Developer;Future+AI+Engineer;Always+Learning+🚀" />
 
-🎓 **B.Sc. Artificial Intelligence & Machine Learning Student**
+<img src="https://komarev.com/ghpvc/?username=frostlily2k4&label=Profile+Views&color=7aa2f7&style=for-the-badge" />
 
-💡 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Python, and Generative AI.**
-
----
-
-## 🚀 Currently Working On
-
-- 🔭 Building **Campus Copilot** – AI-Powered Academic Assistant
-- 🌱 Learning **TensorFlow, Deep Learning, Generative AI & Agentic AI**
-- 💻 Developing AI & Python Projects
-- 🎨 Creating Anime & Semi-Realistic Pencil Art
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌸 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+🎓 B.Sc. Artificial Intelligence & Machine Learning Student
+
+💙 Passionate about AI, Machine Learning, Deep Learning, Python and Generative AI.
+
+🚀 I enjoy building intelligent applications that solve real-world problems.
+
+🌱 Currently learning
+
+- Deep Learning
+- TensorFlow
+- Agentic AI
+- Machine Learning
+- Ethical Hacking
+
+🎯 Goal
+
+Become an AI Engineer building impactful AI products.
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 Featured Projects
+
+### 🎓 Campus Copilot
+
+AI-powered Academic Assistant built using Python, Streamlit and Gemini AI.
+
+⭐ Features
+
+- AI Chat Assistant
+- Study Planner
+- Notes Generator
+- Academic Guidance
+
+---
+
+### 🧠 Python Algorithms Library
+
+Daily collection of Python Data Structures & Algorithms.
+
+Topics include
+
+- Sorting
+- Searching
+- Linked Lists
+- Trees
+- Graph Algorithms
+- Dynamic Programming
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=frostlily2k4&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=frostlily2k4&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode,sqlite,opencv,linux" />
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=frostlily2k4&theme=tokyo-night&hide_border=true)](https://github.com/frostlily2k4)
-
----
-
-## 🏆 GitHub Trophies
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=frostlily2k4&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=frostlily2k4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostlily2k4&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=frostlily2k4&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frostlily2k4&theme=tokyo-night&hide_border=true)](https://github.com/frostlily2k4)
+
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/frostlily2k4/frostlily2k4/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=frostlily2k4&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🐍 Contribution Snake
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/jothi-a-a92210304
+<p align="center">
 
-📧 **Email**  
-frost.lily2k4@gmail.com
+<img src="https://raw.githubusercontent.com/frostlily2k4/frostlily2k4/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
-## 💙 Thanks for Visiting!
+# 📚 Currently Learning
 
-⭐ If you like my projects, consider giving them a **Star**.
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Python
+- Agentic AI
+- Generative AI
 
-*"Always Learning • Always Building • Always Growing"* 🚀
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jothi-a-a92210304">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:frost.lily2k4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
