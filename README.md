@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
+</p>
+
 # <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Jothi+%F0%9F%91%8B;AI+%26+ML+Student;Python+Developer;Future+AI+Engineer" alt="Typing SVG" />
 
 <p align="center">
