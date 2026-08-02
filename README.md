@@ -36,17 +36,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=frostlily2k4&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostlily2k4&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
-
-</p>
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -57,14 +46,6 @@
 ## 📈 Contribution Graph
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=frostlily2k4&theme=tokyo-night&hide_border=true)](https://github.com/frostlily2k4)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=frostlily2k4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
-</p>
 
 ---
 
