@@ -39,13 +39,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=frostlily2k4&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=frostlily2k4&theme=github-dark-blue&hide_border=true" />
 </p>
 
 
 ## 📈 Contribution Graph
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=frostlily2k4&theme=tokyo-night&hide_border=true)](https://github.com/frostlily2k4)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frostlily2k4&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
